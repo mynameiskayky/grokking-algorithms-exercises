@@ -1,0 +1,14 @@
+{
+  "name": "grokking-algorithms",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun --watch recursive-factorial.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
